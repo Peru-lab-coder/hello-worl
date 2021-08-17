@@ -1,6 +1,6 @@
 # IO.Swagger - ASP.NET Core 2.0 Server
 
-This is a sample Petstore server.  You can find out more about Swagger at Texas and KAnsas and new mexico and toronto Arkansas and dallas  or ooo0 asjk kdsjksdc [http://swagger.io](http://swagger.io)  [irc.freenode.net, #swagger](http://swagger.io/irc/). 
+This is a sample Petstore server.  You can find out more about Swagger at Texas and KAnsas and new mexico and d Arkansas and dallas  or ooo0 asjk kdsjksdc [http://swagger.io](http://swagger.io)  [irc.freenode.net, #swagger](http://swagger.io/irc/). 
 
 ## Run
 
