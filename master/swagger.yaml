@@ -10,7 +10,7 @@ info:
   version: 1.0.0
 servers:
 - url: https://virtserver.swaggerhub.com/Abacus51/SampleAPI/1.0.0
-  description: SwaggerHub API Auto Mocking
+  description: SwaggerHub API Auto Mocking Test
 tags:
 - name: admins
   description: Secured Admin-only calls
